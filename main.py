@@ -44,7 +44,7 @@ plt.show()
 print(df)
 
 # Streamlit App Layout
-st.title("Pass Visualization (2023 International Women's World Cup- Spain vs Sweden) vs. App")
+st.title("Pass Visualization (2023 International Women's World Cup- Spain vs Sweden) App")
 st.sidebar.header("Filters")
 
 # Dropdown for pass outcome
