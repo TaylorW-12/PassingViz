@@ -1,0 +1,119 @@
+level_0,index,team,type,minute,shot_type,shot_statsbomb_xg,shot_outcome,pass_outcome,player,x,y,endX,endY
+9,9,Spain Women's,Pass,0,,,,Incomplete,Irene Paredes Hernandez,24.9,66.2,37.3,59.8
+12,12,Spain Women's,Pass,0,,,,Incomplete,Alba María Redondo Ferrer,32.5,74.9,40.6,74.6
+20,20,Spain Women's,Pass,0,,,,Incomplete,María Francesca Caldentey Oliver,73.7,17.2,93.2,38.3
+23,23,Spain Women's,Pass,1,,,,Incomplete,Alba María Redondo Ferrer,50.6,57.0,63.0,52.6
+38,38,Spain Women's,Pass,2,,,,Incomplete,María Francesca Caldentey Oliver,108.8,5.9,117.2,39.1
+47,47,Spain Women's,Pass,2,,,,Incomplete,Ona Batlle Pascual,33.0,76.4,45.9,72.0
+56,56,Spain Women's,Pass,3,,,,Incomplete,Laia Codina Panedas,39.8,21.1,51.2,47.0
+60,60,Spain Women's,Pass,3,,,,Incomplete,Olga  Carmona García,15.0,31.3,42.2,30.0
+77,77,Spain Women's,Pass,4,,,,Incomplete,Jennifer Hermoso Fuentes,80.5,3.8,76.8,2.4
+85,85,Spain Women's,Pass,4,,,,Incomplete,Irene Paredes Hernandez,14.9,70.1,52.2,69.6
+95,95,Spain Women's,Pass,5,,,,Incomplete,Laia Codina Panedas,34.7,14.8,39.9,13.4
+100,100,Spain Women's,Pass,6,,,,Out,María Francesca Caldentey Oliver,37.2,15.0,39.9,0.1
+104,104,Spain Women's,Pass,6,,,,Incomplete,María Francesca Caldentey Oliver,62.4,4.3,57.2,2.7
+124,124,Spain Women's,Pass,7,,,,Out,María Francesca Caldentey Oliver,53.3,22.3,120.0,58.9
+141,141,Spain Women's,Pass,8,,,,Incomplete,Alba María Redondo Ferrer,78.5,75.4,81.8,72.5
+143,143,Spain Women's,Pass,8,,,,Incomplete,Alba María Redondo Ferrer,95.2,72.8,98.4,71.9
+150,150,Spain Women's,Pass,9,,,,Incomplete,Alexia Putellas Segura,71.3,24.0,71.1,26.6
+154,154,Spain Women's,Pass,9,,,,Incomplete,Ona Batlle Pascual,51.2,68.8,109.9,58.6
+160,160,Spain Women's,Pass,9,,,,Out,Alba María Redondo Ferrer,105.7,74.0,120.0,23.1
+168,168,Spain Women's,Pass,10,,,,Incomplete,Alba María Redondo Ferrer,117.2,47.8,115.4,38.3
+169,169,Spain Women's,Pass,10,,,,Incomplete,Alba María Redondo Ferrer,116.2,48.6,113.8,34.7
+173,173,Spain Women's,Pass,11,,,,Incomplete,Teresa Abelleira Dueñas,74.2,31.8,91.5,32.1
+179,179,Spain Women's,Pass,11,,,,Incomplete,Alba María Redondo Ferrer,92.4,74.5,95.4,73.2
+187,187,Spain Women's,Pass,11,,,,Incomplete,Olga  Carmona García,53.2,2.4,68.8,2.9
+197,197,Spain Women's,Pass,13,,,,Incomplete,Aitana Bonmati Conca,89.7,73.6,95.4,69.1
+209,209,Spain Women's,Pass,14,,,,Out,Ona Batlle Pascual,45.4,74.1,67.2,79.6
+218,218,Spain Women's,Pass,16,,,,Incomplete,Teresa Abelleira Dueñas,7.9,18.5,50.7,30.2
+221,221,Spain Women's,Pass,16,,,,Unknown,Jennifer Hermoso Fuentes,45.6,42.0,41.5,42.6
+230,230,Spain Women's,Pass,17,,,,Incomplete,Alexia Putellas Segura,23.3,4.0,25.7,2.7
+232,232,Spain Women's,Pass,17,,,,Incomplete,Jennifer Hermoso Fuentes,56.1,3.0,50.3,6.3
+238,238,Spain Women's,Pass,18,,,,Incomplete,Alba María Redondo Ferrer,99.4,58.0,103.8,43.6
+254,254,Spain Women's,Pass,19,,,,Out,Teresa Abelleira Dueñas,26.2,65.2,33.3,79.0
+257,257,Spain Women's,Pass,19,,,,Incomplete,Alexia Putellas Segura,40.1,41.6,56.2,31.9
+262,262,Spain Women's,Pass,19,,,,Incomplete,Teresa Abelleira Dueñas,33.1,40.2,63.5,48.9
+264,264,Spain Women's,Pass,19,,,,Incomplete,Alba María Redondo Ferrer,55.8,51.2,55.4,47.9
+279,279,Spain Women's,Pass,20,,,,Incomplete,María Francesca Caldentey Oliver,81.5,4.6,101.3,45.4
+282,282,Spain Women's,Pass,20,,,,Incomplete,Aitana Bonmati Conca,96.0,56.7,116.8,39.9
+292,292,Spain Women's,Pass,21,,,,Out,Olga  Carmona García,27.5,1.9,44.9,0.1
+316,316,Spain Women's,Pass,23,,,,Incomplete,Alba María Redondo Ferrer,82.3,68.2,90.5,62.2
+322,322,Spain Women's,Pass,24,,,,Incomplete,Ona Batlle Pascual,79.4,77.4,81.8,75.4
+331,331,Spain Women's,Pass,24,,,,Incomplete,Aitana Bonmati Conca,87.6,56.0,85.3,31.8
+345,345,Spain Women's,Pass,26,,,,Incomplete,Irene Paredes Hernandez,41.7,16.9,85.5,10.5
+346,346,Spain Women's,Pass,27,,,,Incomplete,María Francesca Caldentey Oliver,107.0,14.0,111.8,40.5
+348,348,Spain Women's,Pass,27,,,,Out,Laia Codina Panedas,50.6,2.9,57.7,0.1
+357,357,Spain Women's,Pass,28,,,,Incomplete,Jennifer Hermoso Fuentes,92.0,44.7,86.3,29.8
+379,379,Spain Women's,Pass,29,,,,Incomplete,Irene Paredes Hernandez,14.5,52.8,18.9,52.6
+398,398,Spain Women's,Pass,33,,,,Incomplete,Irene Paredes Hernandez,112.8,48.8,112.0,44.9
+399,399,Spain Women's,Pass,33,,,,Incomplete,Alexia Putellas Segura,113.9,57.6,115.7,39.9
+400,400,Spain Women's,Pass,33,,,,Incomplete,Laia Codina Panedas,111.4,8.2,109.4,10.8
+401,401,Spain Women's,Pass,34,,,,Incomplete,Teresa Abelleira Dueñas,120.0,0.1,117.2,36.2
+417,417,Spain Women's,Pass,36,,,,Incomplete,Ona Batlle Pascual,4.8,72.8,9.2,72.7
+423,423,Spain Women's,Pass,36,,,,Incomplete,Aitana Bonmati Conca,33.5,57.0,53.3,32.4
+457,457,Spain Women's,Pass,39,,,,Incomplete,Irene Paredes Hernandez,16.8,67.3,71.3,69.1
+460,460,Spain Women's,Pass,39,,,,Out,Ona Batlle Pascual,38.8,60.4,66.3,79.6
+467,467,Spain Women's,Pass,40,,,,Incomplete,Ona Batlle Pascual,84.2,50.4,103.8,36.0
+468,468,Spain Women's,Pass,40,,,,Incomplete,Laia Codina Panedas,72.6,34.9,85.8,33.1
+473,473,Spain Women's,Pass,40,,,,Incomplete,Olga  Carmona García,23.1,6.9,40.1,4.0
+476,476,Spain Women's,Pass,41,,,,Incomplete,Alexia Putellas Segura,32.8,16.4,43.0,17.9
+480,480,Spain Women's,Pass,41,,,,Incomplete,Olga  Carmona García,2.1,15.6,11.6,7.1
+487,487,Spain Women's,Pass,44,,,,Incomplete,Olga  Carmona García,10.7,12.4,14.5,6.3
+500,500,Spain Women's,Pass,45,,,,Incomplete,Alba María Redondo Ferrer,50.9,75.7,103.6,46.3
+506,506,Spain Women's,Pass,45,,,,Incomplete,Laia Codina Panedas,35.8,28.2,59.3,18.3
+508,508,Spain Women's,Pass,45,,,,Unknown,Teresa Abelleira Dueñas,42.2,33.1,44.3,24.1
+515,515,Spain Women's,Pass,46,,,,Incomplete,Jennifer Hermoso Fuentes,77.7,78.5,72.6,77.8
+516,516,Spain Women's,Pass,46,,,,Incomplete,Ona Batlle Pascual,77.3,80.0,95.0,77.8
+520,520,Spain Women's,Pass,47,,,,Incomplete,Alba María Redondo Ferrer,93.7,78.2,83.9,73.1
+525,525,Spain Women's,Pass,47,,,,Incomplete,María Francesca Caldentey Oliver,65.5,40.2,108.5,55.6
+529,529,Spain Women's,Pass,48,,,,Incomplete,Irene Paredes Hernandez,47.1,63.5,91.4,20.1
+533,533,Spain Women's,Pass,48,,,,Out,Catalina Thomas Coll Lluch,4.7,29.5,2.6,0.4
+540,540,Spain Women's,Pass,49,,,,Incomplete,Jennifer Hermoso Fuentes,43.2,18.3,57.8,28.6
+551,551,Spain Women's,Pass,50,,,,Incomplete,Alba María Redondo Ferrer,9.0,73.5,14.8,77.0
+552,552,Spain Women's,Pass,50,,,,Out,Irene Paredes Hernandez,5.6,70.5,28.1,80.0
+570,570,Spain Women's,Pass,52,,,,Incomplete,María Francesca Caldentey Oliver,79.4,5.9,79.6,14.7
+580,580,Spain Women's,Pass,53,,,,Incomplete,Teresa Abelleira Dueñas,26.6,63.5,31.9,69.0
+586,586,Spain Women's,Pass,53,,,,Out,Irene Paredes Hernandez,52.9,15.1,64.0,0.4
+612,612,Spain Women's,Pass,55,,,,Incomplete,Olga  Carmona García,22.7,17.7,35.5,19.8
+615,615,Spain Women's,Pass,56,,,,Incomplete,Teresa Abelleira Dueñas,45.0,5.3,56.3,5.1
+617,617,Spain Women's,Pass,56,,,,Incomplete,María Francesca Caldentey Oliver,67.6,4.4,63.1,4.9
+629,629,Spain Women's,Pass,57,,,,Incomplete,Olga  Carmona García,71.9,16.6,79.6,18.8
+639,639,Spain Women's,Pass,57,,,,Incomplete,Salma Paralluelo Ayingono,85.0,42.7,82.0,37.6
+642,642,Spain Women's,Pass,59,,,,Incomplete,Ona Batlle Pascual,42.8,74.0,54.2,71.2
+657,657,Spain Women's,Pass,60,,,,Incomplete,Catalina Thomas Coll Lluch,10.1,42.5,53.9,29.5
+662,662,Spain Women's,Pass,60,,,,Incomplete,Aitana Bonmati Conca,114.3,55.8,119.2,44.9
+675,675,Spain Women's,Pass,62,,,,Incomplete,María Francesca Caldentey Oliver,46.9,15.1,45.8,28.0
+684,684,Spain Women's,Pass,62,,,,Out,Aitana Bonmati Conca,32.3,58.8,82.6,80.0
+690,690,Spain Women's,Pass,63,,,,Incomplete,Jennifer Hermoso Fuentes,67.4,44.2,52.0,37.8
+717,717,Spain Women's,Pass,65,,,,Incomplete,Salma Paralluelo Ayingono,117.7,27.1,113.0,42.5
+719,719,Spain Women's,Pass,67,,,,Incomplete,Teresa Abelleira Dueñas,120.0,0.1,113.4,43.4
+721,721,Spain Women's,Pass,67,,,,Incomplete,Salma Paralluelo Ayingono,107.4,51.3,111.5,44.0
+730,730,Spain Women's,Pass,68,,,,Incomplete,Jennifer Hermoso Fuentes,59.5,5.5,114.9,4.9
+734,734,Spain Women's,Pass,68,,,,Incomplete,Ona Batlle Pascual,107.6,73.1,104.9,52.6
+741,741,Spain Women's,Pass,68,,,,Incomplete,Jennifer Hermoso Fuentes,69.3,16.0,74.3,11.9
+745,745,Spain Women's,Pass,69,,,,Incomplete,Ona Batlle Pascual,63.8,77.8,92.4,63.7
+746,746,Spain Women's,Pass,69,,,,Incomplete,Ona Batlle Pascual,76.2,80.0,101.2,60.9
+754,754,Spain Women's,Pass,70,,,,Incomplete,Ona Batlle Pascual,75.8,76.5,101.2,65.8
+770,770,Spain Women's,Pass,71,,,,Out,María Francesca Caldentey Oliver,87.7,14.9,120.0,15.6
+774,774,Spain Women's,Pass,73,,,,Incomplete,Jennifer Hermoso Fuentes,80.7,72.9,105.9,42.5
+783,783,Spain Women's,Pass,73,,,,Incomplete,Teresa Abelleira Dueñas,84.3,73.1,103.1,60.7
+795,795,Spain Women's,Pass,74,,,,Incomplete,Jennifer Hermoso Fuentes,42.6,38.9,67.2,26.0
+803,803,Spain Women's,Pass,75,,,,Incomplete,Aitana Bonmati Conca,45.8,65.4,114.9,67.8
+805,805,Spain Women's,Pass,76,,,,Pass Offside,Aitana Bonmati Conca,98.6,72.5,112.6,77.2
+807,807,Spain Women's,Pass,77,,,,Incomplete,Ona Batlle Pascual,49.7,80.0,71.1,77.2
+810,810,Spain Women's,Pass,77,,,,Incomplete,Irene Paredes Hernandez,37.9,70.1,50.5,69.7
+827,827,Spain Women's,Pass,78,,,,Out,María Francesca Caldentey Oliver,58.9,36.7,88.0,80.0
+832,832,Spain Women's,Pass,79,,,,Incomplete,Ona Batlle Pascual,64.9,77.4,70.4,75.9
+834,834,Spain Women's,Pass,79,,,,Incomplete,Laia Codina Panedas,53.1,52.6,85.8,45.9
+844,844,Spain Women's,Pass,79,,,,Incomplete,Jennifer Hermoso Fuentes,103.6,21.6,113.2,48.5
+850,850,Spain Women's,Pass,80,,,,Incomplete,Jennifer Hermoso Fuentes,99.7,17.7,110.4,46.2
+858,858,Spain Women's,Pass,83,,,,Incomplete,Aitana Bonmati Conca,45.8,73.7,55.7,79.7
+869,869,Spain Women's,Pass,86,,,,Incomplete,Irene Paredes Hernandez,25.9,70.1,61.9,72.7
+884,884,Spain Women's,Pass,90,,,,Out,Catalina Thomas Coll Lluch,8.0,45.7,56.9,0.2
+886,886,Spain Women's,Pass,91,,,,Out,Laia Codina Panedas,5.2,6.8,21.2,0.2
+903,903,Spain Women's,Pass,92,,,,Incomplete,Catalina Thomas Coll Lluch,12.2,51.3,65.9,30.5
+909,909,Spain Women's,Pass,94,,,,Incomplete,Aitana Bonmati Conca,87.1,43.4,89.9,52.4
+915,915,Spain Women's,Pass,95,,,,Out,Aitana Bonmati Conca,96.1,62.2,120.0,68.6
+920,920,Spain Women's,Pass,96,,,,Incomplete,Ona Batlle Pascual,47.5,77.6,110.0,53.9
+924,924,Spain Women's,Pass,96,,,,Incomplete,Olga  Carmona García,11.8,8.9,66.6,14.3
+927,927,Spain Women's,Pass,97,,,,Out,Olga  Carmona García,16.9,6.4,54.2,1.0
